@@ -4,5 +4,7 @@
     "**/.pnp.*": true
   },
   "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
-  "terminal.explorerKind": "external"
+  "terminal.explorerKind": "external",
+  "terminal.integrated.fontFamily": "\"Maple Mono\", \"Fira Code\",\"Source Code pro\"",
+  "editor.fontFamily": "\"Maple Mono\", 'Droid Sans Mono', 'monospace', monospace"
 }
