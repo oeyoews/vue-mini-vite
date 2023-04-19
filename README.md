@@ -8,4 +8,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Init
 
+`yarn set version berry`
+`yarn create vite`
 `yarn run tailwindcss init -p`
